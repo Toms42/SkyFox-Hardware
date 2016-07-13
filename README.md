@@ -1,3 +1,5 @@
+**_NOTE: Please commit any work to the "active" branch. If you plan to do something major, message me before and submit a pull requests so we stay synced. Thanks!_**
+
 # SkyFox-Hardware
 Formerly Avidrone, this is the repo for all things skyfox hardware! All submodules are linked with the top level SkyFox repo!
 
