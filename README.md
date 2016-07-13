@@ -15,11 +15,14 @@ alt="IMAGE ALT TEXT HERE" width="480" height="380" border="10" /></a>
 
 #About the design process:
 -All work is being done in solidworks right now. (I use student edition, you may or may not be able to edit these files with the full version.)
+
 -Anyone can submit a pull request or branch or whatever
+
 -Don't fuck up the files please
 
 #Links and contact stuff:
 To contact me directly, email me with the email on my github profile (under the icon)
+
 Work will be documented on the rcgroups page here:
 
 #Thanks everyone! Let's make this a reality!
