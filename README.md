@@ -10,7 +10,7 @@ SkyFox is an attempt to create an easy to build, open source version of an activ
 ### Renders:
 <img src="https://i.imgur.com/IQJEwov.jpg" width="800">
 <img src="https://i.imgur.com/1gxvMIZ.jpg" width="400"><img src="https://i.imgur.com/0iIQUMg.jpg" width="400">
-### Videos (click image to view):
+### Videos (click image to view):  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=HB9CcqWh4O0
 " target="_blank"><img src="http://img.youtube.com/vi/HB9CcqWh4O0/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="480" height="380" border="10" /></a>
